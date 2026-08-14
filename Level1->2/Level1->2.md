@@ -14,4 +14,4 @@
  ```bash
     cat ./-
  ```
- And the password is: ![Goal](Goal.png)
+ And the password is: ![Goal](Goal.jpg)
