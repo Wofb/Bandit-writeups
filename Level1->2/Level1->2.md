@@ -10,6 +10,8 @@
  ```text
   Using cat causes issue because the terminal mistaken the dashed as a command-line flag or option rather than a filename.
 ```
+ ## Use a double dash (--) to tell the command line that all following inputs are literal names, not flags.
+ ## Insert a (./) so the terminal recognizes the input as an standard file path.
  So i have to use `cat ./-` or `cat -- -filename`.
  Before that, my terminal look like this:
  ![Error](Error.jpg)\
