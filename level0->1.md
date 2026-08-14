@@ -11,6 +11,10 @@
  ```bash
     cat readme
  ```
- 
 
+![Diagram](level0->1.jpg)
 
+# Password:
+ ```text
+  6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+ ```
