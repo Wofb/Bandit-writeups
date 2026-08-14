@@ -11,6 +11,5 @@
  ```bash
     cat readme
  ```
-![Diagram](/Wofb/Bandit-writeups/level0->1.jpg
 
-
+![Diagram](level0->1.jpg)
