@@ -6,10 +6,13 @@
  Then i find a file "-", but when i use 
  ` cat - ` 
  nothing happen, so i google "dashed filename" as Helpful Reading Material said.\
- Google AI said "In Linux and Unix systems, a dashed filename refers to a file whose name begins with a dash or hyphen (- or --)."\
+ Google AI said "In Linux and Unix systems, a dashed filename refers to a file whose name begins with a dash or hyphen (- or --)."
+ ```text
+  Using cat causes issue because the terminal mistaken the dashed as a command-line flag or option rather than a filename.
+```
  So i have to use `cat ./-` or `cat -- -filename`.
  Before that, my terminal look like this:
- ![Error](Error.jpg)
+ ![Error](Error.jpg)\
  So i have to enter "Ctrl + C" to stop the terminal.
  ```bash
  cat ./-
