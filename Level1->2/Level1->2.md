@@ -12,6 +12,6 @@
  ![Error](Error.jpg)
  So i have to enter "Ctrl + C" to stop the terminal.
  ```bash
-    cat ./-
+ cat ./-
  ```
  And the password is: ![Goal](Goal.jpg)
