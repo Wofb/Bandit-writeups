@@ -12,7 +12,7 @@
     cat readme
  ```
 
-![Diagram](level0->1.jpg)
+![Diagram](Goal.jpg)
 
 # Password:
  ```text
