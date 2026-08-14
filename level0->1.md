@@ -1,7 +1,7 @@
-#Mission: 
- ###Connect to the bandit server using SSH and find the password in readme file.
+# Mission: 
+ ### Connect to the bandit server using SSH and find the password in readme file.
 
-#Step: 
+# Step: 
  Using ssh to connect to the server: 
   ```bash
   ssh bandit0@bandit.labs.overthewire.org -p 2220
@@ -12,5 +12,5 @@
     cat readme
  ```
  
- 
+
 
