@@ -4,7 +4,7 @@
 # Steps:
 
  First, i use `cd inhere` to change directory.\
- Because the file is hiddened, so if i use `ls`, nothing appear.
+ Because the file is hidden, so if i use `ls`, nothing appear.
 
  ![Attempt](Attempt.png)
 
