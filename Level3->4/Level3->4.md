@@ -4,11 +4,11 @@
 # Steps:
 
  First, i use `cd inhere` to change directory.\
- Because the file is hiddened, so if i use `ls`, nothing appear.
+ Because the file is hidden, so if i use `ls`, nothing appear.
 
  ![Attempt](Attempt.png)
 
- So i have to use `ls -a` aka list all to list all the files, including hidden file.
+ I have to use `ls -a` aka list all to list all the files, including hidden file.
 
  ```bash
   ls -a
