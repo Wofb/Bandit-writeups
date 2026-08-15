@@ -8,7 +8,7 @@
 
  ![Attempt](Attempt.png)
 
- So i have to use `ls -a` aka list all to list all the files, including hidden file.
+ I have to use `ls -a` aka list all to list all the files, including hidden file.
 
  ```bash
   ls -a
