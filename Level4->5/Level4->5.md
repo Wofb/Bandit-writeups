@@ -10,10 +10,16 @@
 
 
  Human-readable file is file stored in text(ASCII), so i use `file -- *` to see which file type is ASCII
+ ```bash
+  file -- *
+ ```
  ![FilesType](FilesType.png)
 
 
  Now i know that file i need to read is "-file07"
+ ```bash
+  cat ./-file07
+ ```
  ![Goal](Goal.png)
 
 
