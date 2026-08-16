@@ -8,7 +8,6 @@
  ## Usage:
  + `base64 [OPTION]... [FILE]`
 
- Here [OPTION] i use is -d
  ```bash
  bandit10@bandit:~$ base64 -d data.txt
  ```
