@@ -7,7 +7,7 @@
 
 # Steps:
 
- I still use `find` command that i have learned from level 5, but this time, i will have to search the entire server because i don't know exactly where the password is.
+ I still use the `find` command that i learned from level 5, but this time, i will have to search the entire server because i don't know exactly where the password is.
  
  ### -> use `/`( `/` is the root directory on Linux similar to the C:/ Drive on Windows)
 
@@ -21,7 +21,7 @@
  + **-size 33c**: search for file that has 33 bytes in size.
 
  ![Path](Path.png)
- Scroll up a little bit, i find this path seems like what i need, i read it to see if it's really has the password.
+ Scroll up a little bit, i find this path seems like what i need, i read it to see if it really has the password.
 
  ```bash
  bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
