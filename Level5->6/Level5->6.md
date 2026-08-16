@@ -1,5 +1,5 @@
 # Mission
- This level is quite difficult, i have to find the password stored in a file has all of the following propeties:\
+ This level is quite difficult; I have to find the password stored in a file that has all of the following properties:\
   +human-readable\
   +1033 bytes in size\
   +not executable
@@ -7,13 +7,13 @@
 
 # Steps:
  
- ### In this level, i need to use `find` command to search the file that meet the conditions.
- First, i move in "inhere" directory
+ ### At this level, i need to use the `find` command to search for file that meet the conditions.
+ First, i move into the "inhere" directory
  ```bash
   cd inhere
  ```
 
- ### Then i list all the directories that i have, find out many folders here.
+ ### Then i list all the directories that i have and find out how many folders there are.
  ![Folders](Folders.png)
 
 
