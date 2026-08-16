@@ -1,5 +1,9 @@
 # Mission
+<<<<<<< Updated upstream
  This level is quite difficult; I have to find the password stored in a file that has all of the following properties:\
+=======
+ This level is quite difficult, i have to find the password stored in a file that has all of the following properties:\
+>>>>>>> Stashed changes
   +human-readable\
   +1033 bytes in size\
   +not executable
