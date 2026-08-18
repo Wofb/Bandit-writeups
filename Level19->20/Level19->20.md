@@ -12,7 +12,7 @@
 
  ![OtherPermission](OtherPermission.png)
 
- When i try to read `bandit20`, i read it as `other`, but `bandit20` can only be read by `owner`, so using `./bandit20-do` will help me red it as `owner`.
+ When i try to read `bandit20`, i read it as `other`, but `bandit20` can only be read by `owner`, so using `./bandit20-do` will help me read it as `owner`.
 
  ![Goal](Goal.png)
 
