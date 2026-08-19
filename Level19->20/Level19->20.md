@@ -4,7 +4,7 @@
 # Steps:
  ![Setuid](Setuid.png)
 
- In homedirectory of `bandit19`, i have `bandit20-do` which is a `setuis binary`, to execute it, i use `./` command
+ In homedirectory of `bandit19`, i have `bandit20-do` which is a `setuid binary`, to execute it, i use `./` command
 
  In Linux, `./` means "the current directory." The dot (.) stands for the folder you are in right now, and the slash (/) separates folder names. So `./` can be understood as `/home/bandit19/bandit20-do`.
 
@@ -12,7 +12,7 @@
 
  ![OtherPermission](OtherPermission.png)
 
- When i try to read `bandit20`, i read it as `other`, but `bandit20` can only be read by `owner`, so using `./bandit20-do` will help me red it as `owner`.
+ When i try to read `bandit20`, i read it as `other`, but `bandit20` can only be read by `owner`, so using `./bandit20-do` will help me read it as `owner`.
 
  ![Goal](Goal.png)
 
