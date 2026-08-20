@@ -81,6 +81,8 @@ done
 
  `Bandit24` can only read, execute `getPassword.sh` and write, execute `pass`.
 
+ Then i will copy `getPassword.sh` to `/var/spool/bandit24/foo`.
+ 
  Wait for a second.
 
  ![Goal](Goal.png)
