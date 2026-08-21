@@ -18,6 +18,6 @@
  ```
 
  ![Goal](Goal.png)
- After clone succes, it create a `repo` directory in my home directory. Concatenate `README` and get the password.
- 
+ After clone succes, it creates a `repo` directory in my home directory. Concatenate `README` and get the password.
+
  The password: `y8Yd2ssKcpHpud7UvOSOxwamRMzIGIeQ`
