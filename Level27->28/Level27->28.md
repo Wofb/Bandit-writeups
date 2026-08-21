@@ -2,7 +2,7 @@
  Clone the git repository ssh://bandit27-git@bandit.labs.overthewire.org/home/bandit27-git/repo via the port 2220 to get the password.
 
 # Steps:
- To clone the git repository, first i will install git from my local machine
+ To clone the git repository, first i will install git to my local machine
  ```bash
  sudo apt install git-all
  ```
